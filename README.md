@@ -6,7 +6,7 @@
 
 
 
-Tela Final
+<b>Tela Final</b>
 
 <img src="assets/telaFinal.gif">
 
